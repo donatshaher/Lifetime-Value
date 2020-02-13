@@ -4,6 +4,8 @@ Lifetime customer value value code. This is written in scala and uses MLLIB and 
 
 It is attached without a data source because this is prototype to actual client work that later went into production
 
+This project was a collaboration between me and Raduu Stojan.
+
 
 
 There are 2 files:
