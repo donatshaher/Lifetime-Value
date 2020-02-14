@@ -14,3 +14,7 @@ There are 2 files:
 
 
 2. The scoring pipeline - scores the dataset using the model generated in file 1
+
+
+
+** quick note: the model pipeline is built out to output 1 model where user "days since app install" is a feature. But, the scoring pipeline is built out for a slightly different variation of model pipeline, where user "days since app install" is not a feature, but we rather build a model per each value of "days since app install." 
